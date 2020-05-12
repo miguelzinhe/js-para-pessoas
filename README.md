@@ -19,3 +19,4 @@ Separados por ordem alfabética:
 
 - [.filter()](./conteúdos/filter.md)
 - [.reduce()](./conteúdos/reduce.md)
+- [.map()](./conteúdos/map.md)
