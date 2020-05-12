@@ -15,4 +15,7 @@ Enfim, aproveita aê! Se tiver alguma crítica, sugestão ou lamentação, me d�
 * * *
 
 ## Conteúdos:
+Separados por ordem alfabética:
+
+- [.filter()](./conteúdos/filter.md)
 - [.reduce()](./conteúdos/reduce.md)
