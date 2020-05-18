@@ -18,5 +18,6 @@ Enfim, aproveita aê! Se tiver alguma crítica, sugestão ou lamentação, me d�
 Separados por ordem alfabética:
 
 - [.filter()](./conteúdos/filter.md)
-- [.reduce()](./conteúdos/reduce.md)
+- [.forEach()](./conteúdos/forEach.md)
 - [.map()](./conteúdos/map.md)
+- [.reduce()](./conteúdos/reduce.md)
